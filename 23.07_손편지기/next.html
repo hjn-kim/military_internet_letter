@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="kr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>감사합니다</title>
+    <style>
+      body {
+        background-color: #f0f4f8;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        margin: 0;
+      }
+      .button {
+        padding: 10px 20px;
+        font-size: 16px;
+        border: none;
+        border-radius: 25px;
+        cursor: pointer;
+        margin: 10px;
+        transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+        text-transform: uppercase;
+        font-weight: bold;
+        letter-spacing: 1px;
+      }
+      .write-button {
+        background-color: #4285f4;
+        color: white;
+      }
+      .quit-button {
+        background-color: #ea4335;
+        color: white;
+      }
+      .write-button:hover,
+      .quit-button:hover {
+        background-color: #357ae8;
+      }
+    </style>
+  </head>
+  <body>
+    <img src="" />
+    <h3>써주신 소중한 편지가 발송되었습니다.</h3>
+    <h3>감사합니다</h3>
+    <br />
+    <div class="button-container">
+      <button class="button write-button" onclick="writeanother()">
+        한 장 더 쓰기
+      </button>
+      <button class="button quit-button" onclick="quit()">나가기</button>
+    </div>
+    <script>
+      function writeanother() {
+        window.location.href = "index.html";
+      }
+
+      function quit() {
+        var userAgent = navigator.userAgent.toLowerCase();
+        var mobileKeywords = [
+          "android",
+          "webos",
+          "iphone",
+          "ipad",
+          "ipod",
+          "windows phone",
+        ];
+        var isMobile = mobileKeywords.some(function (keyword) {
+          return userAgent.includes(keyword);
+        });
+
+        if (isMobile) {
+          window.location.href = "https://m.naver.com"; // 모바일 버전 URL 입력
+        } else {
+          window.location.href = "https://www.naver.com"; // PC 버전 URL 입력
+        }
+      }
+    </script>
+  </body>
+</html>
