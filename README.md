@@ -166,12 +166,12 @@ This project goes beyond simple webpage implementation and focuses on the follow
 ## 2. Result Screen
 
 ## 결과 화면
-
-![Result Screen 1](/result_screen/1.png)
-![Result Screen 2](/result_screen/2.png)
-![Result Screen 3](/result_screen/3.png)
-![Result Screen 4](/result_screen/4.png)
-
+<div>
+  <img src="23.07_손편지기/result_screen/1.jpg" width="200" />
+  <img src="23.07_손편지기/result_screen/2.jpg" width="200" />
+  <img src="23.07_손편지기/result_screen/3.jpg" width="200" />
+  <img src="23.07_손편지기/result_screen/4.jpg" width="200" />
+</div>
 
 ---
 
