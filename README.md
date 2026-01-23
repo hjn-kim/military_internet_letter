@@ -15,12 +15,11 @@
 
 ## 2. 결과 화면
 
-## 결과 화면
+<img src="/23.07_손편지기/result_screen/1.png" width="600" />
+<img src="/23.07_손편지기/result_screen/2.png" width="600" />
+<img src="/23.07_손편지기/result_screen/3.png" width="600" />
+<img src="/23.07_손편지기/result_screen/4.png" width="600" />
 
-![Result Screen 1](/23.07_손편지기/result_screen/1.png)
-![Result Screen 2](/23.07_손편지기/result_screen/2.png)
-![Result Screen 3](/23.07_손편지기/result_screen/3.png)
-![Result Screen 4](/23.07_손편지기/result_screen/4.png)
 
 ---
 
