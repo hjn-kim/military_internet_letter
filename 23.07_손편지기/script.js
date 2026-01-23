@@ -61,7 +61,7 @@ function sendLetter() {
       alert("편지 보내기 오류: " + error.message);
     });
 }
-const correctPassword = "";
+const correctPassword = "8999";
 
 function loadSavedData() {
   // 모달 창 표시
@@ -107,4 +107,3 @@ function checkPassword() {
     alert("비밀번호가 틀렸습니다.");
   }
 }
-
