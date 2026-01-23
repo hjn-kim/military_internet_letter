@@ -1,4 +1,4 @@
-# 📮📩📬📧📨 손편지기 (Hand Letter Web Service)
+# 📬 손편지기 (Hand Letter Web Service)
 
 > 군 입대 훈련소 기간에 사용한
 > **인터넷 편지 웹 서비스**
