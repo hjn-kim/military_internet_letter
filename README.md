@@ -16,10 +16,10 @@
 ## 2. 결과 화면
 
 <div>
-  <img src="23.07_손편지기/result_screen/1.png" width="200" />
-  <img src="23.07_손편지기/result_screen/2.png" width="200" />
-  <img src="23.07_손편지기/result_screen/3.png" width="200" />
-  <img src="23.07_손편지기/result_screen/4.png" width="200" />
+  <img src="23.07_손편지기/result_screen/1.jpg" width="200" />
+  <img src="23.07_손편지기/result_screen/2.jpg" width="200" />
+  <img src="23.07_손편지기/result_screen/3.jpg" width="200" />
+  <img src="23.07_손편지기/result_screen/4.jpg" width="200" />
 </div>
 
 ---
