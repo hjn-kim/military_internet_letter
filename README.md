@@ -1,7 +1,7 @@
-# 📮 손편지기 (Hand Letter Web Service)
+# 📮📩📬📧📨 손편지기 (Hand Letter Web Service)
 
-> 군 입대를 앞둔 장병과 가족·지인을 연결하는  
-> **대체 인터넷 편지 웹 서비스**
+> 군 입대 훈련소 기간에 사용한
+> **인터넷 편지 웹 서비스**
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -14,9 +14,7 @@
 ## 1. 프로젝트 개요
 
 **손편지기**는  
-군 복무 입대를 앞둔 상황에서 발생하는 **입대 전 일정 기간 동안 군대 인터넷 편지 사용이 불가능해지는 문제**를 해결하기 위해 기획·제작한 웹 서비스입니다.
-
-본 프로젝트는 단순한 웹페이지 구현을 넘어, 다음의 실질적인 학습 및 문제 해결 목표를 중심으로 진행되었습니다.
+입대 15일 전 군대 인터넷 편지가 폐지되는 문제에 직접 솔루션을 찾아 해결해보고자 하여 **나만의 인터넷 편지 사이트**를 기획하고 제작하게 됨.
 
 - 실제 사회적·개인적 문제 해결
 - 클라이언트–서버 통신 구조에 대한 이해
