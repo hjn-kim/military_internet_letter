@@ -3,7 +3,7 @@
 ## 1. 프로젝트 개요
 
 **손편지기**는 군 복무 입대를 앞둔 상황에서  
-*입대 15일 전 군대 인터넷 편지가 폐지되는 문제*를 직접 해결하기 위해 기획·제작한 웹 서비스입니다.
+*입대 20일 전 군대 인터넷 편지가 폐지되는 문제*를 직접 해결하기 위해 기획·제작한 웹 서비스입니다.
 
 본 프로젝트는 단순한 웹페이지 구현을 넘어 다음을 목표로 진행되었습니다.
 
@@ -17,10 +17,10 @@
 
 ## 결과 화면
 
-![Result Screen 1](/result_screen/1.png)
-![Result Screen 2](/result_screen/2.png)
-![Result Screen 3](/result_screen/3.png)
-![Result Screen 4](/result_screen/4.png)
+![Result Screen 1](/23.07_손편지기/result_screen/1.png)
+![Result Screen 2](/23.07_손편지기/result_screen/2.png)
+![Result Screen 3](/23.07_손편지기/result_screen/3.png)
+![Result Screen 4](/23.07_손편지기/result_screen/4.png)
 
 ---
 
