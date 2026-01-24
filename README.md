@@ -150,11 +150,11 @@ PC 환경에서는 정상 동작하였으나, 모바일 기기별로 UI가 상�
 ---
 
 ## 11. 프로젝트 구조
-├─ index.html
-├─ next.html
-├─ script.js
-├─ firebase.json
-├─ database.rules.json
+├─ index.html </br>
+├─ next.html </br>
+├─ script.js </br>
+├─ firebase.json </br>
+├─ database.rules.json </br>
 ├─ netlify.toml
 
 ---
@@ -320,11 +320,11 @@ The full redesign was completed within two days, and the service was successfull
 
 ## 11. Project Structure
 
-├─ index.html
-├─ next.html
-├─ script.js
-├─ firebase.json
-├─ database.rules.json
+├─ index.html </br>
+├─ next.html </br>
+├─ script.js </br>
+├─ firebase.json </br>
+├─ database.rules.json </br>
 ├─ netlify.toml
 
 
