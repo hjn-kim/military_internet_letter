@@ -2,7 +2,7 @@
 
 > 군 입대 훈련소 기간에 사용한
 > **인터넷 편지 웹 서비스** </br>
-> **URL: ** https://kimletter.netlify.app
+> **URL:** https://kimletter.netlify.app
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
